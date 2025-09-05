@@ -16,3 +16,5 @@
 ^MAINTENANCE\.md$
 ^[\.]?air\.toml$
 ^\.vscode$
+^cran-comments\.md$
+^[.]?air[.]toml$
